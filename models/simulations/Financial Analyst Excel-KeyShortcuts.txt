@@ -1,0 +1,46 @@
+Excel - Formato número con separador de miles (2.500):
+  Windows: Ctrl + Shift + !
+  Mac: Cmd + Shift + !
+Excel - Abrir formato de celdas:
+  Windows: Ctrl + 1
+  Mac: Cmd + 1
+Google Sheets - Formato numérico estándar:
+  Windows/Mac: Ctrl + Shift + 1
+
+Ajustar las casillas al ancho del texto es:  Alt + H + O + I
+
+Congelar y Dividir en Excel - Atajos de Teclado
+
+Congelar Filas/Columnas:
+- Congelar Fila Superior: Alt + W + F + R
+- Congelar Primera Columna: Alt + W + F + C
+- Congelar Filas y Columnas Personalizadas: Alt + W + F + F
+  (Selecciona la celda debajo y a la derecha de lo que quieres congelar)
+
+Dividir Pantalla:
+- Activar/Desactivar División: Alt + W + S
+
+Navegación Rápida:
+- Ir al final de un bloque: Ctrl + Flecha
+- Ir a A1: Ctrl + Inicio
+- Ir a la última celda: Ctrl + Fin
+- Seleccionar columna: Ctrl + Espacio
+- Seleccionar fila: Shift + Espacio
+
+
+Atajos para unir celdas en Excel:
+
+1. Seleccionar: Shift + Flecha
+2. Unir y centrar: Alt + H + M + U + Enter
+3. Unir sin centrar: Alt + H + M + M + Enter
+
+
+Puedes usar los siguientes atajos para ajustar el nivel de zoom:
+
+Aumentar zoom: Ctrl + Alt + + (tecla más)
+Reducir zoom: Ctrl + Alt + - (tecla menos)
+Ajustar zoom al 100%: Ctrl + Alt + 0 (en algunos teclados puede no funcionar, depende de la configuración).
+Alternativamente, puedes usar:
+
+Ctrl + rueda del ratón hacia arriba para aumentar zoom.
+Ctrl + rueda del ratón hacia abajo para reducir zoom.
